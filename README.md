@@ -30,7 +30,7 @@ The project was built to deliver a smooth and responsive voice-control interface
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Language:** Python 3.12+
 - **Speech Recognition:** `SpeechRecognition` (Google Speech API)
@@ -39,14 +39,3 @@ The project was built to deliver a smooth and responsive voice-control interface
 - **Web APIs:** `requests` (OpenWeatherMap API), `wikipedia-api`
 - **Environment:** Virtualenv (`venv`), Windows Batch Scripts (`.bat`)
 
----
-
-## 🚀 Installation & Setup
-
-### 1. Prerequisites
-Ensure you have Python installed and a free API key from [OpenWeatherMap](https://openweathermap.org/).
-
-### 2. Clone the Repository
-```bash
-git clone [https://github.com/your-username/JARVIS.git](https://github.com/your-username/JARVIS.git)
-cd JARVIS
