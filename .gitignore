@@ -1,0 +1,18 @@
+# Ambiente Virtuale (troppo pesante, non va caricato)
+venv
+ENV
+env
+
+# Cache di Python
+__pycache__
+.pyc
+.pyo
+
+# Configurazioni personali del sistema
+.vscode
+.idea
+.log
+
+# File di sistema Windows
+Thumbs.db
+Desktop.ini
